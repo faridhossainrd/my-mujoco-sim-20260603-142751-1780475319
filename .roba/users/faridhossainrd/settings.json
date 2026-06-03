@@ -1,5 +1,5 @@
 {
-  "model": "openai/gpt-oss-120b:free",
+  "model": "google/gemma-4-26b-a4b-it:free",
   "superAgentModel": "anthropic/claude-sonnet-4.6",
   "projectRoot": "/home/farid/mojoco/robacreatorhub_server2/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-20260603-142751-1780475319",
   "superAgentEnabled": false

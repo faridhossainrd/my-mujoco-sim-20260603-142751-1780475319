@@ -1,0 +1,16 @@
+{
+  "sessionId": "sess_7vtdh07w",
+  "fullHistory": [
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — your co-pilot for the Unitree G1. Here's what we can do together:\n\n🤖 Motion & Poses\n\"Wave hello with both hands\"\n\"Do a squat and stand up repeatedly\"\n\"Perform a simple dance step\"\n\n⚙️ Simulation & Physics\n\"See how it walks on different surfaces like ice or gravel\"\n\"Test its balance when pushed gently\"\n\"Simulate carrying a small box and observe stability\"\n\n🛠️ Customise & Extend\n\"Add a camera sensor to its head for vision\"\n\"Attach a small gripper to one hand\"\n\"Change the foot shape to improve traction\""
+    },
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — your co-pilot for the Unitree G1. Here's what we can do together:\n\n🤖 Motion & Poses\n\"Wave hello with one arm\"\n\"Do a friendly robot dance\"\n\"Stretch up high like reaching for the sky\"\n\n⚙️ Simulation & Physics\n\"See how it balances when pushed gently\"\n\"Watch it walk smoothly across the floor\"\n\"Test how it recovers from a small stumble\"\n\n🛠️ Customise & Extend\n\"Give it a cool new hat or accessory\"\n\"Teach it to pick up lightweight objects\"\n\"Adjust its stiffness for softer movements\""
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/farid/mojoco/robacreatorhub_server2/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-20260603-142751-1780475319",
+  "savedAt": 1780475402453
+}
